@@ -1,1 +1,1 @@
-include ':app', ':VRPanoYDS', ':vrvideoyds'
+include ':VRPanoYDS', ':vrvideoyds', ':common', ':commonwidget', ':panowidget'
